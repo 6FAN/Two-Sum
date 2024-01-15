@@ -13,7 +13,7 @@ Input: nums = [2,7,11,15], target = 9
 
 **Explanation: Because nums [0] + nums [1] == 9**
 
-we return [0, 11].
+we return [0, 1].
 
 
 **Example 2:**
